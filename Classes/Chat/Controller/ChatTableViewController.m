@@ -18,9 +18,6 @@
     UIView *_view;
     UITableView *_tableView;
 }
-
-
-
 @end
 
 @implementation ChatTableViewController
