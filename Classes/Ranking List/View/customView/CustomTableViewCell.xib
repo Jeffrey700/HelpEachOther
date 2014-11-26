@@ -31,7 +31,7 @@
                         <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                         <nil key="highlightedColor"/>
                     </label>
-                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="app" translatesAutoresizingMaskIntoConstraints="NO" id="3QU-pL-cj3">
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="a1－2" translatesAutoresizingMaskIntoConstraints="NO" id="3QU-pL-cj3">
                         <rect key="frame" x="45" y="7" width="30" height="30"/>
                     </imageView>
                 </subviews>
@@ -46,6 +46,6 @@
         </tableViewCell>
     </objects>
     <resources>
-        <image name="app" width="24" height="24"/>
+        <image name="a1－2" width="200" height="200"/>
     </resources>
 </document>
